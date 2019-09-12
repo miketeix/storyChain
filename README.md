@@ -2,4 +2,4 @@
 
 ### Add a line to story.txt and tag your friend to continue in the comments
 
-@noway909
+@noway909 way to go Collin!
