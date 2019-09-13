@@ -2,5 +2,7 @@
 
 ### Add a line to story.txt and tag your friend to continue in the comments
 
-@noway909
-@lalala
+
+@noway909 way to go Collin!
+@TenZanGu way to go Lobsang!
+
