@@ -6,12 +6,13 @@ But coding blockchain was hard,
 And then the coder bouhgt a miner,
 He had a dream of becoming a developer and buy Bitcoin,
 So he went to georgebrown to learn
-<<<<<<< HEAD
-Down by the bay
-Where the watermelons grow
-=======
 And registered to GBC course
 And completed his certification from Geroge brown and went to industry,
 Down by the bay
 And get a job in downtown!
->>>>>>> a26bc9003c043a848035f31a0de7b20bcdf3c428
+Drink a lot beer after everything!
+In class he started a promissing project
+and the story continues.....
+And then 2 years later he realized:
+i figured some stuff out.
+and so did the little blockchainer 
