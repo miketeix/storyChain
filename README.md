@@ -6,4 +6,5 @@
 @noway909 way to go Collin!
 @TenZanGu way to go Lobsang!
 @Dishan16 way to go Dishan!
-@furuta way to go Tomo! 
+@quizoxis way to go Jamshed!
+@furuta way to go Tomo!
