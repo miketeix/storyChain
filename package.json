@@ -1,0 +1,23 @@
+{
+  "name": "storychain",
+  "version": "1.0.0",
+  "description": "'A community writen story as a chain'",
+  "main": "story.txt",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miketeix/storyChain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miketeix/storyChain/issues"
+  },
+  "homepage": "https://github.com/miketeix/storyChain#readme",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0"
+  }
+}
